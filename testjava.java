@@ -147,7 +147,7 @@ public class EightQueens {
 
 	/* pre: mat != null, valid != null
 	   post: return true if all elements in mat are one of the characters in valid
-	tesgbasdad*/
+	tesgbaasdadadsdad*/
         private static boolean onlyContains(char[][] mat, char[] valid)
         {	assert mat != null && valid != null : "Violation of precondition: onlyContains";
 
