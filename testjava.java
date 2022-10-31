@@ -25,7 +25,7 @@ public class EightQueens {
          * represent open spaces.<br>
          * <p>post: return true if the configuration of board is safe,
          * that is no queen can attack any other queen on the board.
-         * false otherwise.
+         * false otherwise. dududud
          * @param board the chessboard
          * @return true if the configuration of board is safe,
          * that is no queen can attack any other queen on the board.
